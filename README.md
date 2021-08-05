@@ -1,5 +1,4 @@
-    In implementarea proiectului am facut anumite presupuneri cu scopul de a concretiza activitatea
-casei de licitatii:
+In implementarea proiectului am facut urmatoarele presupuneri pentru a concretiza activitatea casei de licitatii:
     - Clientii, brokerii si produsele sunt citite din fisiere text separate si introduse in listele
      specifice ale casei de licitatii prin parsare.
     - Pentru a-si putea incepe activitatea, o casa de licitatii trebuie mai intai sa angajeze cel
